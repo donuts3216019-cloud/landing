@@ -1,1 +1,17 @@
-# landing
+# MOCABEAN CAFE 랜딩페이지
+
+간단한 카페 소개용 원페이지 랜딩페이지입니다. 순수 HTML/CSS로 제작되었습니다.
+
+## 구성
+
+- `index.html` — 페이지 마크업 (히어로, 소개, 메뉴, 운영시간, 오시는 길)
+- `style.css` — 스타일시트
+
+## 실행 방법
+
+별도 빌드 과정 없이 `index.html` 파일을 브라우저에서 열면 바로 확인할 수 있습니다.
+
+## 사용 기술
+
+- HTML5 / CSS3
+- Google Fonts (Gowun Batang, Nanum Gothic)
